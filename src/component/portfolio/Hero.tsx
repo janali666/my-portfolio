@@ -1,6 +1,6 @@
 
 import { motion } from "framer-motion";
-import { ArrowRight, Download, Kayak, Mail } from "lucide-react";
+import { ArrowRight, Download,  Mail } from "lucide-react";
 import profile from '../../assets/kk.jpeg';
 const techStack = [
   "React",
