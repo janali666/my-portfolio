@@ -101,7 +101,7 @@ export const Hero = () => {
           transition={{ duration: 1 }}
           className="flex justify-center"
         >
-          <div className="w-72 h-80 md:w-96 md:h-[28rem] rounded-2xl overflow-hidden border border-gray-700">
+          <div className="w-72 h-80 md:w-96 md:h-[28rem] rounded-full overflow-hidden border border-gray-700">
             <img
               src={profile}
               alt="profile"
